@@ -12,7 +12,7 @@ I’m a web developer specializing in virtual environments and digital business 
 
 ## Technologies
 
-Twig · PHP · WordPress · C# · JavaScript · SCSS · Drupal · Git · GitHub · GitLab
+Twig · PHP · WordPress · C# · JavaScript · SCSS · Drupal · Git packages
 
 ## Work at IBERO Puebla
 
